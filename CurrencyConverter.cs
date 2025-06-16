@@ -10,12 +10,12 @@ public class CurrencyConverter
     public const string CommandEurToUsd = "6";
     public const string CommandExit = "7";
     
-    const float RubToUsd = 0.01266f;
-    const float UsdToRub = 79f;
-    const float RubToEur = 0.0112f;
-    const float UsdToEur = 0.91f;
-    const float EurToUsd = 1.1f;
-    const float EurToRub = 89.1f;
+    public const float RubToUsd = 0.01266f;
+    public const float UsdToRub = 79f;
+    public const float RubToEur = 0.0112f;
+    public const float UsdToEur = 0.91f;
+    public const float EurToUsd = 1.1f;
+    public const float EurToRub = 89.1f;
     
     public float rublesInWallet;
     public float dollarsInWallet;
