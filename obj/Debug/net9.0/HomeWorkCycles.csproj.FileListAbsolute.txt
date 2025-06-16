@@ -1,0 +1,14 @@
+/Users/desertik/Work/HomeWorkCycles/HomeWorkCycles/bin/Debug/net9.0/HomeWorkCycles
+/Users/desertik/Work/HomeWorkCycles/HomeWorkCycles/bin/Debug/net9.0/HomeWorkCycles.deps.json
+/Users/desertik/Work/HomeWorkCycles/HomeWorkCycles/bin/Debug/net9.0/HomeWorkCycles.runtimeconfig.json
+/Users/desertik/Work/HomeWorkCycles/HomeWorkCycles/bin/Debug/net9.0/HomeWorkCycles.dll
+/Users/desertik/Work/HomeWorkCycles/HomeWorkCycles/bin/Debug/net9.0/HomeWorkCycles.pdb
+/Users/desertik/Work/HomeWorkCycles/HomeWorkCycles/obj/Debug/net9.0/HomeWorkCycles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/desertik/Work/HomeWorkCycles/HomeWorkCycles/obj/Debug/net9.0/HomeWorkCycles.AssemblyInfoInputs.cache
+/Users/desertik/Work/HomeWorkCycles/HomeWorkCycles/obj/Debug/net9.0/HomeWorkCycles.AssemblyInfo.cs
+/Users/desertik/Work/HomeWorkCycles/HomeWorkCycles/obj/Debug/net9.0/HomeWorkCycles.csproj.CoreCompileInputs.cache
+/Users/desertik/Work/HomeWorkCycles/HomeWorkCycles/obj/Debug/net9.0/HomeWorkCycles.dll
+/Users/desertik/Work/HomeWorkCycles/HomeWorkCycles/obj/Debug/net9.0/refint/HomeWorkCycles.dll
+/Users/desertik/Work/HomeWorkCycles/HomeWorkCycles/obj/Debug/net9.0/HomeWorkCycles.pdb
+/Users/desertik/Work/HomeWorkCycles/HomeWorkCycles/obj/Debug/net9.0/HomeWorkCycles.genruntimeconfig.cache
+/Users/desertik/Work/HomeWorkCycles/HomeWorkCycles/obj/Debug/net9.0/ref/HomeWorkCycles.dll
