@@ -2,13 +2,13 @@ namespace My.Home.Work.Cycles;
 
 public class CurrencyConverter
 {
-    private const string CommandRubToUsd = "1";
-    private const string CommandUsdToRub = "2";
-    private const string CommandRubToEur = "3";
-    private const string CommandEurToRub = "4";
-    private const string CommandUsdToEur = "5";
-    private const string CommandEurToUsd = "6";
-    private const string CommandExit = "7";
+    public const string CommandRubToUsd = "1";
+    public const string CommandUsdToRub = "2";
+    public const string CommandRubToEur = "3";
+    public const string CommandEurToRub = "4";
+    public const string CommandUsdToEur = "5";
+    public const string CommandEurToUsd = "6";
+    public const string CommandExit = "7";
     
     const float RubToUsd = 0.01266f;
     const float UsdToRub = 79f;

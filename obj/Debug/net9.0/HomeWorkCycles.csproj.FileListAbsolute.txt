@@ -12,3 +12,4 @@
 /Users/desertik/Work/HomeWorkCycles/HomeWorkCycles/obj/Debug/net9.0/HomeWorkCycles.pdb
 /Users/desertik/Work/HomeWorkCycles/HomeWorkCycles/obj/Debug/net9.0/HomeWorkCycles.genruntimeconfig.cache
 /Users/desertik/Work/HomeWorkCycles/HomeWorkCycles/obj/Debug/net9.0/ref/HomeWorkCycles.dll
+/Users/desertik/Work/HomeWorkCycles/HomeWorkCycles/obj/Debug/net9.0/HomeWorkCycles.sourcelink.json
