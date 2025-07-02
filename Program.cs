@@ -18,6 +18,9 @@
             
             var convert = new CurrencyConverter();
             convert.Converter();
+            
+            var currencyV2 = new CurrencyConverterV2();
+            currencyV2.ConverterV2();
         }
     }
 }
