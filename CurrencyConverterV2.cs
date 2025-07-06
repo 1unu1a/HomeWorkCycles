@@ -84,7 +84,6 @@ public class CurrencyConverterV2
 
     public float ReadValidBalance(string currencyName)
     {
-
         while (true)
         {
             Console.Write($"Введите баланс {currencyName}: ");
@@ -96,6 +95,7 @@ public class CurrencyConverterV2
             Console.WriteLine("Некорректный ввод. Попробуйте ещё раз.");
         }
     }
+    
     public bool TryParseCurrency(string input, out Currency currency)
     {
         return Enum.TryParse(input, true, out currency);
